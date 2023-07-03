@@ -10,8 +10,8 @@
 
 To use this application, follow these steps:
 
-1. Clone the repository: `git clone git@github.com:Nik0Sp/simple_border_radius_generator.git`
-2. Change directory to the project folder: `cd simple-border-radius-generator`
+1. Clone the repository: `git clone git@github.com:Nik0Sp/simple_blob_generator.git`
+2. Change directory to the project folder: `cd simple-blob-generator`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to see the application in action.
